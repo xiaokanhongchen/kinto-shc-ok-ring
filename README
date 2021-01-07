@@ -1,1 +1,4 @@
-20210101 
+
+kintoring-ok-master ###kinto之前通过，可以用，但kinto失效。其他未测试。（加密-解密运行。） --20210107
+mixcaddy2-ok-master###heroku可用。未加密。  20210107
+
